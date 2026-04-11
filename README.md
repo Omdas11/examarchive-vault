@@ -19,6 +19,7 @@ Master index for standardized Assam University FYUG syllabus metadata and paper 
 | PHYSICS | 41 | 25 | 10 | 3 | 3 | 0 | 0 |
 | POLITICAL SCIENCE | 41 | 25 | 10 | 3 | 3 | 0 | 0 |
 | ZOOLOGY | 40 | 24 | 10 | 3 | 3 | 0 | 0 |
+| **GRAND TOTAL** | **531** | **321** | **118** | **39** | **35** | **2** | **10** |
 
 ## ASSAMESE
 
