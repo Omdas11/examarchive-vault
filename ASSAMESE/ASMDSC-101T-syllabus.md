@@ -9,7 +9,7 @@ group: "Assamese Major"
 session: "2025-2026"
 year: 2026
 
-paper_code: "ASMDSC-101T"
+paper_code: "ASMDSC101T"
 paper_name: "অসমীয়া সাহিত্যৰ বুৰঞ্জী (প্রাচীন কালৰ পৰা মধ্যযুগলৈ)"
 subject: "ASM"
 type: "DSC"
