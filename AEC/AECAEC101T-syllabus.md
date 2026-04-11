@@ -1,28 +1,30 @@
 ---
 entry_type: syllabus
-entry_id: HGC-FYUG-PHYSEC101T
+entry_id: HGC-FYUG-AECAEC101T
 college: Haflong Government College
 university: Assam University
 course: FYUG
 stream: Science
-group: Physics Skill Enhancement
+group: AEC Major
 session: 2025-2026
 year: 2026
-paper_code: PHYSEC101T
-paper_name: Workshop Skill
-subject: PHY
-type: SEC
+paper_code: AECAEC101T
+paper_title: '[Pending Title]'
+subject_code: AEC
+paper_type: AEC
 semester_code: '101'
 semester_no: 1
 credits: 3
 marks_total: 100
-source_reference: ''
+source_reference: MASTER.md
 status: draft
-aliases: []
-keywords: []
-notes: Auto-generated draft from master syllabus row Original naming used PHYSEC-101/PHYSEC-101-syllabus.md;
-  normalized to strict code format PHYSEC101T per PAPER_CODE_VALIDATION_RULES.
-version: 2
+keywords:
+- aec
+- aec
+- semester-1
+notes: Missing file generated Original naming used AEC101T/AEC101T-syllabus.md; normalized
+  to strict code format AECAEC101T per PAPER_CODE_VALIDATION_RULES.
+version: 1
 last_updated: '2026-04-11'
 ---
 

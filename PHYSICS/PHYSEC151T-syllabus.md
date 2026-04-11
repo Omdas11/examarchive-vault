@@ -1,34 +1,29 @@
 ---
 entry_type: syllabus
-entry_id: "HGC-FYUG-PHYSEC151T"
-college: "Haflong Government College"
-university: "Assam University"
-course: "FYUG"
-stream: "Science"
-group: "Physics Major"
-session: "2025-2026"
+entry_id: HGC-FYUG-PHYSEC151T
+college: Haflong Government College
+university: Assam University
+course: FYUG
+stream: Science
+group: Physics Skill Enhancement
+session: 2025-2026
 year: 2026
-
-paper_code: "PHYSEC151T"
-paper_title: "[Pending Title]"
-subject_code: "PHY"
-paper_type: "SEC"
-semester_code: "151"
+paper_code: PHYSEC151T
+paper_name: Electrical Circuits and Safety
+subject: PHY
+type: SEC
+semester_code: '151'
 semester_no: 2
-
 credits: 3
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
-
-keywords:
-  - "physics"
-  - "sec"
-  - "semester-2"
-
-notes: "Missing file generated"
-version: 1
-last_updated: "2026-04-11"
+source_reference: ''
+status: draft
+aliases: []
+keywords: []
+notes: Auto-generated draft from master syllabus row Original naming used PHYSEC-151/PHYSEC-151-syllabus.md;
+  normalized to strict code format PHYSEC151T per PAPER_CODE_VALIDATION_RULES.
+version: 2
+last_updated: '2026-04-11'
 ---
 
 ## Syllabus

@@ -1,34 +1,29 @@
 ---
 entry_type: syllabus
-entry_id: "HGC-FYUG-ASMDSC453T"
-college: "Haflong Government College"
-university: "Assam University"
-course: "FYUG"
-stream: "Arts"
-group: "Assamese Major"
-session: "2025-2026"
+entry_id: HGC-FYUG-ASMDSC453T
+college: Haflong Government College
+university: Assam University
+course: FYUG
+stream: Arts
+group: Assamese Major
+session: 2025-2026
 year: 2026
-
-paper_code: "ASMDSC453T"
-paper_title: "[Pending Title]"
-subject_code: "ASM"
-paper_type: "DSC"
-semester_code: "453"
+paper_code: ASMDSC453T
+paper_name: অসমীয়া বিজ্ঞান সাহিত্য
+subject: ASM
+type: DSC
+semester_code: '453'
 semester_no: 8
-
-credits: 3
+credits: 4
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
-
-keywords:
-  - "assamese"
-  - "dsc"
-  - "semester-8"
-
-notes: "Repair needed: Syllabus content is truncated at unit 3; missing units 4 and 5."
-version: 1
-last_updated: "2026-04-11"
+source_reference: ''
+status: draft
+aliases: []
+keywords: []
+notes: Auto-generated draft from master syllabus row Original naming used ASMDSC-453T/ASMDSC-453T-syllabus.md;
+  normalized to strict code format ASMDSC453T per PAPER_CODE_VALIDATION_RULES.
+version: 2
+last_updated: '2026-04-11'
 ---
 
 ## Syllabus
