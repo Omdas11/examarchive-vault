@@ -21,8 +21,7 @@ marks_total: ""
 source_reference: ""
 status: "draft"
 
-keywords:
-  - ""
+keywords: []
 
 notes: ""
 version: 1
