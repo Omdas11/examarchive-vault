@@ -9,9 +9,9 @@ group: AEC Major
 session: 2025-2026
 year: 2026
 paper_code: AECAEC101T
-paper_title: '[Pending Title]'
-subject_code: AEC
-paper_type: AEC
+paper_name: '[Pending Title]'
+subject: AEC
+type: AEC
 semester_code: '101'
 semester_no: 1
 credits: 3
@@ -20,7 +20,7 @@ source_reference: MASTER.md
 status: draft
 keywords:
 - aec
-- aec
+- ability-enhancement
 - semester-1
 notes: Missing file generated Original naming used AEC101T/AEC101T-syllabus.md; normalized
   to strict code format AECAEC101T per PAPER_CODE_VALIDATION_RULES.
