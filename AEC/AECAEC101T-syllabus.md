@@ -18,10 +18,7 @@ credits: 3
 marks_total: 100
 source_reference: MASTER.md
 status: draft
-keywords:
-- aec
-- ability-enhancement
-- semester-1
+keywords: []
 notes: Missing file generated Original naming used AEC101T/AEC101T-syllabus.md; normalized
   to strict code format AECAEC101T per PAPER_CODE_VALIDATION_RULES.
 version: 1
