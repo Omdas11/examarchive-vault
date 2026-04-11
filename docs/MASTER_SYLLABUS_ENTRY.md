@@ -164,7 +164,7 @@ last_updated: "2026-04-08"
 - [ ] Semester mapping valid and `semester_no` derived correctly
 - [ ] `course` is `FYUG` only
 - [ ] `stream` is `Science`, `Arts`, or `Commerce`
-- [ ] Group present
+- [ ] Major group present
 - [ ] Source reference present
 - [ ] `syllabus_pdf_url` provided only when overriding the auto-generated value
 - [ ] `status` is one of: `active`, `archived`, `draft`
