@@ -1,34 +1,29 @@
 ---
 entry_type: syllabus
-entry_id: "HGC-FYUG-ASMDSM401T"
-college: "Haflong Government College"
-university: "Assam University"
-course: "FYUG"
-stream: "Arts"
-group: "Assamese Major"
-session: "2025-2026"
+entry_id: HGC-FYUG-ASMDSM401T
+college: Haflong Government College
+university: Assam University
+course: FYUG
+stream: Arts
+group: Assamese Minor
+session: 2025-2026
 year: 2026
-
-paper_code: "ASMDSM401T"
-paper_title: "[Pending Title]"
-subject_code: "ASM"
-paper_type: "DSM"
-semester_code: "401"
+paper_code: ASMDSM401T
+paper_name: সৃজনীমূলক লেখন (Creative Writings)
+subject: ASM
+type: DSM
+semester_code: '401'
 semester_no: 7
-
-credits: 3
+credits: 4
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
-
-keywords:
-  - "assamese"
-  - "dsm"
-  - "semester-7"
-
-notes: "Repair needed: Syllabus markdown is incomplete; missing units 3, 4, 5 and table content is truncated."
-version: 1
-last_updated: "2026-04-11"
+source_reference: ''
+status: draft
+aliases: []
+keywords: []
+notes: Auto-generated draft from master syllabus row Original naming used ASMDSM-401T/ASMDSM-401T-syllabus.md;
+  normalized to strict code format ASMDSM401T per PAPER_CODE_VALIDATION_RULES.
+version: 2
+last_updated: '2026-04-11'
 ---
 
 ## Syllabus

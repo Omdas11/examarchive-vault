@@ -1,34 +1,29 @@
 ---
 entry_type: syllabus
-entry_id: "HGC-FYUG-ASMDSM351T"
-college: "Haflong Government College"
-university: "Assam University"
-course: "FYUG"
-stream: "Arts"
-group: "Assamese Major"
-session: "2025-2026"
+entry_id: HGC-FYUG-ASMDSM351T
+college: Haflong Government College
+university: Assam University
+course: FYUG
+stream: Arts
+group: Assamese Minor
+session: 2025-2026
 year: 2026
-
-paper_code: "ASMDSM351T"
-paper_title: "[Pending Title]"
-subject_code: "ASM"
-paper_type: "DSM"
-semester_code: "351"
+paper_code: ASMDSM351T
+paper_name: এগৰাকী বিশিষ্ট সাহিত্যিকৰ বিষয়ে অধ্যয়ন (লক্ষ্মীনাথ বেজবৰুৱা)
+subject: ASM
+type: DSM
+semester_code: '351'
 semester_no: 6
-
-credits: 3
+credits: 4
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
-
-keywords:
-  - "assamese"
-  - "dsm"
-  - "semester-6"
-
-notes: "Repair needed: Syllabus markdown is truncated; missing unit 5 and content is cut off in unit 4."
-version: 1
-last_updated: "2026-04-11"
+source_reference: ''
+status: draft
+aliases: []
+keywords: []
+notes: Auto-generated draft from master syllabus row Original naming used ASMDSM-351T/ASMDSM-351T-syllabus.md;
+  normalized to strict code format ASMDSM351T per PAPER_CODE_VALIDATION_RULES.
+version: 2
+last_updated: '2026-04-11'
 ---
 
 ## Syllabus

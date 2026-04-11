@@ -1,34 +1,29 @@
 ---
 entry_type: syllabus
-entry_id: "HGC-FYUG-PHIDSC252T"
-college: "Haflong Government College"
-university: "Assam University"
-course: "FYUG"
-stream: "Arts"
-group: "Philosophy Major"
-session: "2025-2026"
+entry_id: HGC-FYUG-PHIDSC252T
+college: Haflong Government College
+university: Assam University
+course: FYUG
+stream: Arts
+group: Philosophy Major
+session: 2025-2026
 year: 2026
-
-paper_code: "PHIDSC252T"
-paper_title: "[Pending Title]"
-subject_code: "PHI"
-paper_type: "DSC"
-semester_code: "252"
+paper_code: PHIDSC252T
+paper_name: 'Classical Text Indian: Tarkasamgraha'
+subject: PHI
+type: DSC
+semester_code: '252'
 semester_no: 4
-
-credits: 3
+credits: 4
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
-
-keywords:
-  - "philosophy"
-  - "dsc"
-  - "semester-4"
-
-notes: "Repair needed: Syllabus table does not match the 'unit_breakdown' definition in the front matter (only 3 units provided vs 5 defined)."
-version: 1
-last_updated: "2026-04-11"
+source_reference: ''
+status: draft
+aliases: []
+keywords: []
+notes: Auto-generated draft from master syllabus row Original naming used PHIDSC252/PHIDSC252-syllabus.md;
+  normalized to strict code format PHIDSC252T per PAPER_CODE_VALIDATION_RULES.
+version: 2
+last_updated: '2026-04-11'
 ---
 
 ## Syllabus

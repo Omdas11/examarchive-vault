@@ -1,34 +1,29 @@
 ---
 entry_type: syllabus
-entry_id: "HGC-FYUG-ASMSEC201T"
-college: "Haflong Government College"
-university: "Assam University"
-course: "FYUG"
-stream: "Arts"
-group: "Assamese Major"
-session: "2025-2026"
+entry_id: HGC-FYUG-ASMSEC201T
+college: Haflong Government College
+university: Assam University
+course: FYUG
+stream: Arts
+group: Assamese Skill Enhancement
+session: 2025-2026
 year: 2026
-
-paper_code: "ASMSEC201T"
-paper_title: "[Pending Title]"
-subject_code: "ASM"
-paper_type: "SEC"
-semester_code: "201"
+paper_code: ASMSEC201T
+paper_name: অনুবাদ কলা
+subject: ASM
+type: SEC
+semester_code: '201'
 semester_no: 3
-
 credits: 3
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
-
-keywords:
-  - "assamese"
-  - "sec"
-  - "semester-3"
-
-notes: "Repair needed: Syllabus content is incomplete and truncated at Unit 5."
-version: 1
-last_updated: "2026-04-11"
+source_reference: ''
+status: draft
+aliases: []
+keywords: []
+notes: Auto-generated draft from master syllabus row Original naming used ASMSEC-201T/ASMSEC-201T-syllabus.md;
+  normalized to strict code format ASMSEC201T per PAPER_CODE_VALIDATION_RULES.
+version: 2
+last_updated: '2026-04-11'
 ---
 
 ## Syllabus
