@@ -18,7 +18,7 @@ semester_no: ""
 
 credits: ""
 marks_total: ""
-source_reference: "MASTER_QUESTION_ENTRY.md"
+source_reference: ""
 status: "draft"
 
 keywords:
