@@ -9,7 +9,7 @@ group: "Assamese Major"
 session: "2025-2026"
 year: 2026
 
-paper_code: "ASMDSC-301"
+paper_code: "ASMDSC301T"
 paper_name: "সাহিত্য সমালোচনা ঃ প্রাচ্য আৰু পাশ্চাত্য"
 subject: "ASM"
 type: "DSC"
