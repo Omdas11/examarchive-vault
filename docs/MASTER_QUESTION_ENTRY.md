@@ -2,8 +2,8 @@
 entry_type: question
 entry_id: ""
 college: ""
-university: "Assam University"
-course: "FYUG"
+university: ""
+course: ""
 stream: ""
 group: ""
 session: ""
