@@ -21,6 +21,8 @@ For the master drafting guide (both syllabus and question formats, naming, and u
   one syllabus file per code is the intended convention.
 - Do **not** include a `## Questions` section in this file. Syllabus and question ingestion
   are intentionally split and must be uploaded as separate markdown files.
+- Do **not** include unit-level syllabus fields (for example `unit_breakdown`) in YAML frontmatter;
+  keep all unit-level content only in the `## Syllabus` markdown table.
 - Follow the encoding and naming conventions from `docs/ASSAM_UNIVERSITY_PAPER_CODING.md`.
 
 ---
@@ -83,7 +85,6 @@ The current parser (`src/lib/admin-md-ingestion.ts`) reads these frontmatter key
 |-------------------|--------------|----------------------------------------------------|
 | `aliases`         | list[string] | Common alternate names for the paper               |
 | `keywords`        | list[string] | Search/filter tags                                 |
-| `unit_breakdown`  | list[object] | List of units with `unit_number`, `syllabus_content`, `lectures`, and `tags` |
 | `notes`           | string       | Reviewer notes or ingestion remarks                |
 | `version`         | number       | Schema version (increment on structural changes)   |
 | `last_updated`    | string       | ISO date of last update (`YYYY-MM-DD`)             |
@@ -128,16 +129,6 @@ keywords:
   - "physics"
   - "dsc"
   - "semester-1"
-
-unit_breakdown:
-  - unit_number: 1
-    syllabus_content: "Vectors, displacement, velocity, acceleration basics"
-    lectures: 12
-    tags: "kinematics,vector,motion"
-  - unit_number: 2
-    syllabus_content: "Relative motion and projectile motion derivations"
-    lectures: 10
-    tags: "relative-motion,projectile"
 
 notes: "Validated against Assam University coding guidelines"
 version: 1
