@@ -9,7 +9,7 @@ group: "Assamese Major"
 session: "2025-2026"
 year: 2026
 
-paper_code: "ASMDSC-102T"
+paper_code: "ASMDSC102T"
 paper_name: "অসমীয়া ভাষাৰ ইতিহাস"
 subject: "ASM"
 type: "DSC"
