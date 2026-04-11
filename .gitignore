@@ -1,2 +1,5 @@
 *.csv
 .obsidian/
+# Python cache artifacts
+__pycache__/
+*.pyc

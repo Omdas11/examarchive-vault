@@ -5,7 +5,7 @@ college: "Haflong Government College"
 university: "Assam University"
 course: "FYUG"
 stream: "Science"
-group: "Botany Major"
+group: "Botany Skill Enhancement"
 session: "2025-2026"
 year: 2026
 

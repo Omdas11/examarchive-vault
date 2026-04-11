@@ -23,7 +23,7 @@ status: "partial"
 
 aliases: []
 keywords: []
-notes: ""
+notes: "Unit-wise syllabus content is still incomplete; placeholder rows exist but the detailed syllabus body has not yet been populated."
 version: 2
 last_updated: "2026-04-11"
 ---
