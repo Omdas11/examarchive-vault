@@ -17,7 +17,7 @@ semester_code: "455"
 semester_no: 8
 
 credits: 12
-marks_total: 100
+marks_total: 300
 source_reference: "BENGALI.pdf"
 status: "draft"
 
