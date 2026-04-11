@@ -33,7 +33,7 @@ Master index for standardized Assam University FYUG syllabus metadata and paper 
 | 7 | 4 | ASMDSC-251T | ভাষাবিজ্ঞানৰ প্রাথমিক পৰিচয় | 4 |
 | 8 | 4 | ASMDSC-252T | অসমীয়া নাটক (প্রাচীন আৰু আধুনিক) | 4 |
 | 9 | 4 | ASMDSC-253T | অসমীয়া সংস্কৃতি | 4 |
-| 10 | 5 | ASMDSC-301 | সাহিত্য সমালোচনা ঃ প্রাচ্য আৰু পাশ্চাত্য | 4 |
+| 10 | 5 | ASMDSC301T | সাহিত্য সমালোচনা ঃ প্রাচ্য আৰু পাশ্চাত্য | 4 |
 | 11 | 5 | ASMDSC-302T | অসমীয়া চুটিগল্প আৰু উপন্যাস | 4 |
 | 12 | 5 | ASMDSC-303T | পালি-প্রাকৃত-অপভ্ৰংশ ভাষা, সাহিত্য আৰু ব্যাকৰণ | 4 |
 | 13 | 6 | ASMDSC-351T | অসমীয়া গদ্য সাহিত্য | 4 |
@@ -135,7 +135,7 @@ Master index for standardized Assam University FYUG syllabus metadata and paper 
 | 12 | 3 | BOTDSC202T | Genetics, Molecular Biology and Plant Breeding | 4 |
 | 13 | 3 | BOTDSM201T | Plant Anatomy and Embryology | 4 |
 | 14 | 3 | BOTIDC201T | Plants and Traditional Knowledge | 3 |
-| 15 | 3 | BOTSSEC201T | Horticulture | 3 |
+| 15 | 3 | BOTSEC201T | Horticulture | 3 |
 | 16 | 4 | BOTDSC251T | Economic Botany | 4 |
 | 17 | 4 | BOTDSC252T | Plant Systematics | 4 |
 | 18 | 4 | BOTDSC253P | Practical - II | 4 |
