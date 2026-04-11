@@ -17,7 +17,7 @@ semester_code: "301"
 semester_no: 5
 
 credits: 2
-marks_total: 
+marks_total: 50
 source_reference: ""
 status: "draft"
 
