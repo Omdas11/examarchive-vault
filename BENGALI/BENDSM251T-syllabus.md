@@ -1,33 +1,30 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-BENDSM251T"
 college: "Haflong Government College"
 university: "Assam University"
 course: "FYUG"
 stream: "Arts"
-group: "Bengali Major"
+group: "Bengali Minor"
 session: "2025-2026"
 year: 2026
 
 paper_code: "BENDSM251T"
-paper_title: "[Pending Title]"
-subject_code: "BEN"
-paper_type: "DSM"
+paper_name: "উনিশ শতকের বাংলা কবিতা ও নাটক"
+subject: "BEN"
+type: "DSM"
 semester_code: "251"
 semester_no: 4
 
 credits: 3
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "BENGALI.pdf"
+status: "partial"
 
-keywords:
-  - "bengali"
-  - "dsm"
-  - "semester-4"
-
-notes: "Repair needed: The file content is truncated and incomplete; the syllabus table is cut off mid-sentence."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

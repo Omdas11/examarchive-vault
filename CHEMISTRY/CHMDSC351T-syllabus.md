@@ -1,5 +1,5 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-CHMDSC351T"
 college: "Haflong Government College"
 university: "Assam University"
@@ -10,24 +10,21 @@ session: "2025-2026"
 year: 2026
 
 paper_code: "CHMDSC351T"
-paper_title: "[Pending Title]"
-subject_code: "CHM"
-paper_type: "DSC"
+paper_name: "Advance Material"
+subject: "CHM"
+type: "DSC"
 semester_code: "351"
 semester_no: 6
 
-credits: 3
+credits: 4
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "CHEMISTRY.pdf (Assam University FYUG Chemistry Syllabus, NEP 2020)"
+status: "partial"
 
-keywords:
-  - "chemistry"
-  - "dsc"
-  - "semester-6"
-
-notes: "Repair needed: File is truncated and incomplete; syllabus table is unfinished."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

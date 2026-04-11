@@ -1,5 +1,5 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-ZOODSC102T"
 college: "Haflong Government College"
 university: "Assam University"
@@ -10,24 +10,21 @@ session: "2025-2026"
 year: 2026
 
 paper_code: "ZOODSC102T"
-paper_title: "[Pending Title]"
-subject_code: "ZOO"
-paper_type: "DSC"
+paper_name: "Diversity of Chordates"
+subject: "ZOO"
+type: "DSC"
 semester_code: "102"
 semester_no: 1
 
 credits: 3
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "ZOOLOGY.pdf"
+status: "partial"
 
-keywords:
-  - "zoology"
-  - "dsc"
-  - "semester-1"
-
-notes: "Pending content review"
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

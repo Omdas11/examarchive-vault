@@ -1,5 +1,5 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-CHMDSC151T"
 college: "Haflong Government College"
 university: "Assam University"
@@ -10,24 +10,21 @@ session: "2025-2026"
 year: 2026
 
 paper_code: "CHMDSC151T"
-paper_title: "[Pending Title]"
-subject_code: "CHM"
-paper_type: "DSC"
+paper_name: "Organic Chemistry-I: Introductory Organic Chemistry"
+subject: "CHM"
+type: "DSC"
 semester_code: "151"
 semester_no: 2
 
 credits: 3
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "CHEMISTRY.pdf (Assam University FYUG Chemistry Syllabus, NEP 2020)"
+status: "partial"
 
-keywords:
-  - "chemistry"
-  - "dsc"
-  - "semester-2"
-
-notes: "Repair needed: Malformed Markdown: 'Paper Details' section ends abruptly with 'Source course numbe' instead of a full line."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

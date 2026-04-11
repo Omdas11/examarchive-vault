@@ -1,33 +1,30 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-ENGAEC151T"
 college: "Haflong Government College"
 university: "Assam University"
 course: "FYUG"
 stream: "Arts"
-group: "English Major"
+group: "English Ability Enhancement"
 session: "2025-2026"
 year: 2026
 
 paper_code: "ENGAEC151T"
-paper_title: "[Pending Title]"
-subject_code: "ENG"
-paper_type: "AEC"
+paper_name: "English Language and Communication"
+subject: "ENG"
+type: "AEC"
 semester_code: "151"
 semester_no: 2
 
-credits: 3
-marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+credits: 2
+marks_total: 50
+source_reference: "ENGLISH.pdf"
+status: "partial"
 
-keywords:
-  - "english"
-  - "aec"
-  - "semester-2"
-
-notes: "Repair needed: File is truncated; the syllabus table is incomplete and the markdown front matter is not properly closed."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

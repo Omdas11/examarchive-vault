@@ -1,5 +1,5 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-CHMDSC451T"
 college: "Haflong Government College"
 university: "Assam University"
@@ -10,24 +10,21 @@ session: "2025-2026"
 year: 2026
 
 paper_code: "CHMDSC451T"
-paper_title: "[Pending Title]"
-subject_code: "CHM"
-paper_type: "DSC"
+paper_name: "Research Methodology with Selected Topics in Chemistry-III"
+subject: "CHM"
+type: "DSC"
 semester_code: "451"
 semester_no: 8
 
-credits: 3
+credits: 4
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "CHEMISTRY.pdf (Assam University FYUG Chemistry Syllabus, NEP 2020)"
+status: "partial"
 
-keywords:
-  - "chemistry"
-  - "dsc"
-  - "semester-8"
-
-notes: "Repair needed: Syllabus table header and rows are missing; document ends abruptly after Paper Details."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

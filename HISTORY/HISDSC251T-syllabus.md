@@ -1,5 +1,5 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-HISDSC251T"
 college: "Haflong Government College"
 university: "Assam University"
@@ -10,24 +10,21 @@ session: "2025-2026"
 year: 2026
 
 paper_code: "HISDSC251T"
-paper_title: "[Pending Title]"
-subject_code: "HIS"
-paper_type: "DSC"
+paper_name: "History of India from 1857 to 1947 CE"
+subject: "HIS"
+type: "DSC"
 semester_code: "251"
 semester_no: 4
 
-credits: 3
+credits: 4
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: ""
+status: "partial"
 
-keywords:
-  - "history"
-  - "dsc"
-  - "semester-4"
-
-notes: "Repair needed: The Markdown table is incomplete and broken; it ends abruptly at row 4 without closing tags."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

@@ -1,33 +1,30 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-PHYDSM401T"
 college: "Haflong Government College"
 university: "Assam University"
 course: "FYUG"
 stream: "Science"
-group: "Physics Major"
+group: "Physics Minor"
 session: "2025-2026"
 year: 2026
 
 paper_code: "PHYDSM401T"
-paper_title: "[Pending Title]"
-subject_code: "PHY"
-paper_type: "DSM"
+paper_name: "Modern Physics and Solid State Physics (DSM 1)"
+subject: "PHY"
+type: "DSM"
 semester_code: "401"
 semester_no: 7
 
-credits: 3
+credits: 4
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: ""
+status: "partial"
 
-keywords:
-  - "physics"
-  - "dsm"
-  - "semester-7"
-
-notes: "Repair needed: Syllabus content is incomplete (placeholder text) and markdown table is malformed/incomplete."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

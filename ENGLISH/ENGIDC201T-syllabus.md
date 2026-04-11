@@ -1,33 +1,30 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-ENGIDC201T"
 college: "Haflong Government College"
 university: "Assam University"
 course: "FYUG"
 stream: "Arts"
-group: "English Major"
+group: "English Interdisciplinary"
 session: "2025-2026"
 year: 2026
 
 paper_code: "ENGIDC201T"
-paper_title: "[Pending Title]"
-subject_code: "ENG"
-paper_type: "IDC"
+paper_name: "Literature and Film"
+subject: "ENG"
+type: "IDC"
 semester_code: "201"
 semester_no: 3
 
 credits: 3
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "ENGLISH.pdf"
+status: "partial"
 
-keywords:
-  - "english"
-  - "idc"
-  - "semester-3"
-
-notes: "Missing file generated"
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

@@ -1,5 +1,5 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-COMDSC152T"
 college: "Haflong Government College"
 university: "Assam University"
@@ -10,24 +10,21 @@ session: "2025-2026"
 year: 2026
 
 paper_code: "COMDSC152T"
-paper_title: "[Pending Title]"
-subject_code: "COM"
-paper_type: "DSC"
+paper_name: "Business Laws"
+subject: "COM"
+type: "DSC"
 semester_code: "152"
 semester_no: 2
 
 credits: 3
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "COMMERCE.pdf – Assam University B.Com NEP-2020 Syllabus"
+status: "partial"
 
-keywords:
-  - "commerce"
-  - "dsc"
-  - "semester-2"
-
-notes: "Repair needed: The file content is truncated mid-table, making it incomplete and syntactically invalid."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

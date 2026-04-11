@@ -1,33 +1,30 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-CHMDSM252T"
 college: "Haflong Government College"
 university: "Assam University"
 course: "FYUG"
 stream: "Science"
-group: "Chemistry Major"
+group: "Chemistry Minor"
 session: "2025-2026"
 year: 2026
 
 paper_code: "CHMDSM252T"
-paper_title: "[Pending Title]"
-subject_code: "CHM"
-paper_type: "DSM"
+paper_name: "Fundamentals of Chemistry-II (DSM-201)"
+subject: "CHM"
+type: "DSM"
 semester_code: "252"
 semester_no: 4
 
 credits: 3
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "CHEMISTRY.pdf (Assam University FYUG Chemistry Syllabus, NEP 2020)"
+status: "partial"
 
-keywords:
-  - "chemistry"
-  - "dsm"
-  - "semester-4"
-
-notes: "Repair needed: Incomplete syllabus table; markdown header defined but missing data rows."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

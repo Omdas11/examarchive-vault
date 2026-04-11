@@ -1,5 +1,5 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-ECODSC404T"
 college: "Haflong Government College"
 university: "Assam University"
@@ -10,24 +10,21 @@ session: "2025-2026"
 year: 2026
 
 paper_code: "ECODSC404T"
-paper_title: "[Pending Title]"
-subject_code: "ECO"
-paper_type: "DSC"
+paper_name: "Economics of Gender and Development"
+subject: "ECO"
+type: "DSC"
 semester_code: "404"
 semester_no: 7
 
-credits: 3
+credits: 4
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: ""
+status: "partial"
 
-keywords:
-  - "economics"
-  - "dsc"
-  - "semester-7"
-
-notes: "Missing file generated"
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

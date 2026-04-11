@@ -1,33 +1,30 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-CHMSEC101T"
 college: "Haflong Government College"
 university: "Assam University"
 course: "FYUG"
 stream: "Science"
-group: "Chemistry Major"
+group: "Chemistry Skill Enhancement"
 session: "2025-2026"
 year: 2026
 
 paper_code: "CHMSEC101T"
-paper_title: "[Pending Title]"
-subject_code: "CHM"
-paper_type: "SEC"
+paper_name: "Separation Techniques"
+subject: "CHM"
+type: "SEC"
 semester_code: "101"
 semester_no: 1
 
 credits: 3
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "CHEMISTRY.pdf (Assam University FYUG Chemistry Syllabus, NEP 2020)"
+status: "partial"
 
-keywords:
-  - "chemistry"
-  - "sec"
-  - "semester-1"
-
-notes: "Repair needed: The file is truncated and missing the mandatory Syllabus table section."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

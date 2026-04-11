@@ -1,5 +1,5 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-HISDSC353T"
 college: "Haflong Government College"
 university: "Assam University"
@@ -10,24 +10,21 @@ session: "2025-2026"
 year: 2026
 
 paper_code: "HISDSC353T"
-paper_title: "[Pending Title]"
-subject_code: "HIS"
-paper_type: "DSC"
+paper_name: "History of Great Britain from 1688 to 1919 CE"
+subject: "HIS"
+type: "DSC"
 semester_code: "353"
 semester_no: 6
 
-credits: 3
+credits: 4
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: ""
+status: "partial"
 
-keywords:
-  - "history"
-  - "dsc"
-  - "semester-6"
-
-notes: "Repair needed: Syllabus table is incomplete; file content is truncated mid-sentence in the final row."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

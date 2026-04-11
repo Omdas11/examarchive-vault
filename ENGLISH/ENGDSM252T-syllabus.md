@@ -1,33 +1,30 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-ENGDSM252T"
 college: "Haflong Government College"
 university: "Assam University"
 course: "FYUG"
 stream: "Arts"
-group: "English Major"
+group: "English Minor"
 session: "2025-2026"
 year: 2026
 
 paper_code: "ENGDSM252T"
-paper_title: "[Pending Title]"
-subject_code: "ENG"
-paper_type: "DSM"
+paper_name: "Essays and Short Stories"
+subject: "ENG"
+type: "DSM"
 semester_code: "252"
 semester_no: 4
 
 credits: 3
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "ENGLISH.pdf"
+status: "partial"
 
-keywords:
-  - "english"
-  - "dsm"
-  - "semester-4"
-
-notes: "Missing file generated"
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 
