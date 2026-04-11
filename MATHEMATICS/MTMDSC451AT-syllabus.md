@@ -9,7 +9,7 @@ group: Mathematics Major
 session: 2025-2026
 year: 2026
 paper_code: MTMDSC451AT
-paper_name: Research Methodology (Honours with Research)
+paper_name: 'Research Methodology (Honours with Research)'
 subject: MTM
 type: DSC
 semester_code: '451'

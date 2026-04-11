@@ -9,7 +9,7 @@ group: Assamese Major
 session: 2025-2026
 year: 2026
 paper_code: ASMDSC455T
-paper_name: Research Project/Dissertation
+paper_name: Research Project / Dissertation
 subject: ASM
 type: DSC
 semester_code: '455'

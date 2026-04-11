@@ -9,7 +9,7 @@ group: Mathematics Major
 session: 2025-2026
 year: 2026
 paper_code: MTMDSC452AT
-paper_name: Research Project/Dissertation (Honours with Research)
+paper_name: 'Research Project / Dissertation (Honours with Research)'
 subject: MTM
 type: DSC
 semester_code: '452'

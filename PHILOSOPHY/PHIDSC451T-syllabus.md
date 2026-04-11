@@ -9,7 +9,7 @@ group: Philosophy Major
 session: 2025-2026
 year: 2026
 paper_code: PHIDSC451T
-paper_name: Research Methodology / Philosophy of Science
+paper_name: 'Research Methodology / Philosophy of Science'
 subject: PHI
 type: DSC
 semester_code: '451'

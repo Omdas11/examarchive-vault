@@ -9,19 +9,16 @@ group: VAC Major
 session: 2025-2026
 year: 2026
 paper_code: VACVAC101T
-paper_title: '[Pending Title]'
-subject_code: VAC
-paper_type: VAC
+paper_name: '[Pending Title]'
+subject: VAC
+type: VAC
 semester_code: '101'
 semester_no: 1
 credits: 3
 marks_total: 100
 source_reference: MASTER.md
 status: draft
-keywords:
-- vac
-- vac
-- semester-1
+keywords: []
 notes: Missing file generated Original naming used VAC101T/VAC101T-syllabus.md; normalized
   to strict code format VACVAC101T per PAPER_CODE_VALIDATION_RULES.
 version: 1
