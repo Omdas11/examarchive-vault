@@ -1,5 +1,5 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-BENDSC453T"
 college: "Haflong Government College"
 university: "Assam University"
@@ -10,24 +10,21 @@ session: "2025-2026"
 year: 2026
 
 paper_code: "BENDSC453T"
-paper_title: "[Pending Title]"
-subject_code: "BEN"
-paper_type: "DSC"
+paper_name: "বিশেষ পাঠ- বাংলা নাটক ও আখ্যান"
+subject: "BEN"
+type: "DSC"
 semester_code: "453"
 semester_no: 8
 
-credits: 3
+credits: 4
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "BENGALI.pdf"
+status: "partial"
 
-keywords:
-  - "bengali"
-  - "dsc"
-  - "semester-8"
-
-notes: "Repair needed: The file content is truncated mid-table, causing an incomplete markdown structure."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

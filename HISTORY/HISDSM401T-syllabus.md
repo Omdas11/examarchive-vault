@@ -1,33 +1,30 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-HISDSM401T"
 college: "Haflong Government College"
 university: "Assam University"
 course: "FYUG"
 stream: "Arts"
-group: "History Major"
+group: "History Minor"
 session: "2025-2026"
 year: 2026
 
 paper_code: "HISDSM401T"
-paper_title: "[Pending Title]"
-subject_code: "HIS"
-paper_type: "DSM"
+paper_name: "History of Assam from 1826 to 1947 CE"
+subject: "HIS"
+type: "DSM"
 semester_code: "401"
 semester_no: 7
 
-credits: 3
+credits: 4
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: ""
+status: "partial"
 
-keywords:
-  - "history"
-  - "dsm"
-  - "semester-7"
-
-notes: "Repair needed: The file contains truncated content in the syllabus table, specifically at row 4, and is missing the mandatory unit 5 row."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

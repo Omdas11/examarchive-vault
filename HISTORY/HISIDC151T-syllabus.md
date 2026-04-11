@@ -1,33 +1,30 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-HISIDC151T"
 college: "Haflong Government College"
 university: "Assam University"
 course: "FYUG"
 stream: "Arts"
-group: "History Major"
+group: "History Interdisciplinary"
 session: "2025-2026"
 year: 2026
 
 paper_code: "HISIDC151T"
-paper_title: "[Pending Title]"
-subject_code: "HIS"
-paper_type: "IDC"
+paper_name: "Gender Studies"
+subject: "HIS"
+type: "IDC"
 semester_code: "151"
 semester_no: 2
 
 credits: 3
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: ""
+status: "partial"
 
-keywords:
-  - "history"
-  - "idc"
-  - "semester-2"
-
-notes: "Repair needed: The file contains truncated content in the syllabus table at row 4, and is missing the mandatory unit 5 row."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

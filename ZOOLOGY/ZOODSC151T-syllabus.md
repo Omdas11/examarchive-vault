@@ -1,5 +1,5 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-ZOODSC151T"
 college: "Haflong Government College"
 university: "Assam University"
@@ -10,24 +10,21 @@ session: "2025-2026"
 year: 2026
 
 paper_code: "ZOODSC151T"
-paper_title: "[Pending Title]"
-subject_code: "ZOO"
-paper_type: "DSC"
+paper_name: "Cell Biology"
+subject: "ZOO"
+type: "DSC"
 semester_code: "151"
 semester_no: 2
 
 credits: 3
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "ZOOLOGY.pdf"
+status: "partial"
 
-keywords:
-  - "zoology"
-  - "dsc"
-  - "semester-2"
-
-notes: "Pending content review"
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

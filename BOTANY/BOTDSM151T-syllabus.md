@@ -1,33 +1,30 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-BOTDSM151T"
 college: "Haflong Government College"
 university: "Assam University"
 course: "FYUG"
 stream: "Science"
-group: "Botany Major"
+group: "Botany Minor"
 session: "2025-2026"
 year: 2026
 
 paper_code: "BOTDSM151T"
-paper_title: "[Pending Title]"
-subject_code: "BOT"
-paper_type: "DSM"
+paper_name: "Angiosperm Morphology and Taxonomy"
+subject: "BOT"
+type: "DSM"
 semester_code: "151"
 semester_no: 2
 
 credits: 3
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "BOTANY.pdf"
+status: "partial"
 
-keywords:
-  - "botany"
-  - "dsm"
-  - "semester-2"
-
-notes: "Pending content review"
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

@@ -1,33 +1,30 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-ZOOSEC101T"
 college: "Haflong Government College"
 university: "Assam University"
 course: "FYUG"
 stream: "Science"
-group: "Zoology Major"
+group: "Zoology Skill Enhancement"
 session: "2025-2026"
 year: 2026
 
 paper_code: "ZOOSEC101T"
-paper_title: "[Pending Title]"
-subject_code: "ZOO"
-paper_type: "SEC"
+paper_name: "Apiculture"
+subject: "ZOO"
+type: "SEC"
 semester_code: "101"
 semester_no: 1
 
 credits: 3
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "ZOOLOGY.pdf"
+status: "partial"
 
-keywords:
-  - "zoology"
-  - "sec"
-  - "semester-1"
-
-notes: "Missing file generated"
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

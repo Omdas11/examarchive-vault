@@ -1,33 +1,30 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-ECODSM451T"
 college: "Haflong Government College"
 university: "Assam University"
 course: "FYUG"
 stream: "Arts"
-group: "Economics Major"
+group: "Economics Minor"
 session: "2025-2026"
 year: 2026
 
 paper_code: "ECODSM451T"
-paper_title: "[Pending Title]"
-subject_code: "ECO"
-paper_type: "DSM"
+paper_name: "Introductory Public Economics"
+subject: "ECO"
+type: "DSM"
 semester_code: "451"
 semester_no: 8
 
-credits: 3
+credits: 4
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: ""
+status: "partial"
 
-keywords:
-  - "economics"
-  - "dsm"
-  - "semester-8"
-
-notes: "Missing file generated"
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

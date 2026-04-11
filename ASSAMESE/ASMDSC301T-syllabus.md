@@ -1,5 +1,5 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-ASMDSC301T"
 college: "Haflong Government College"
 university: "Assam University"
@@ -10,24 +10,21 @@ session: "2025-2026"
 year: 2026
 
 paper_code: "ASMDSC301T"
-paper_title: "[Pending Title]"
-subject_code: "ASM"
-paper_type: "DSC"
+paper_name: "সাহিত্য সমালোচনা ঃ প্রাচ্য আৰু পাশ্চাত্য"
+subject: "ASM"
+type: "DSC"
 semester_code: "301"
 semester_no: 5
 
-credits: 3
+credits: 4
 marks_total: 100
-source_reference: "MASTER.md"
+source_reference: ""
 status: "draft"
 
-keywords:
-  - "assamese"
-  - "dsc"
-  - "semester-5"
-
-notes: "Repair needed: The syllabus table is incomplete and truncated; content ends abruptly."
-version: 1
+aliases: []
+keywords: []
+notes: "Original naming used ASMDSC-301/ASMDSC-301-syllabus.md; normalized to strict code format ASMDSC301T."
+version: 2
 last_updated: "2026-04-11"
 ---
 

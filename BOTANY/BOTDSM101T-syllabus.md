@@ -1,33 +1,30 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-BOTDSM101T"
 college: "Haflong Government College"
 university: "Assam University"
 course: "FYUG"
 stream: "Science"
-group: "Botany Major"
+group: "Botany Minor"
 session: "2025-2026"
 year: 2026
 
 paper_code: "BOTDSM101T"
-paper_title: "[Pending Title]"
-subject_code: "BOT"
-paper_type: "DSM"
+paper_name: "Biodiversity (Microbes, Cryptogams & Gymnosperms)"
+subject: "BOT"
+type: "DSM"
 semester_code: "101"
 semester_no: 1
 
 credits: 3
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "BOTANY.pdf"
+status: "partial"
 
-keywords:
-  - "botany"
-  - "dsm"
-  - "semester-1"
-
-notes: "Repair needed: File is truncated; missing content after the 'Paper Details' section and the file cuts off mid-word."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

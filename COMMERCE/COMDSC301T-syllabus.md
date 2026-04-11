@@ -1,5 +1,5 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-COMDSC301T"
 college: "Haflong Government College"
 university: "Assam University"
@@ -10,24 +10,21 @@ session: "2025-2026"
 year: 2026
 
 paper_code: "COMDSC301T"
-paper_title: "[Pending Title]"
-subject_code: "COM"
-paper_type: "DSC"
+paper_name: "Financial Management"
+subject: "COM"
+type: "DSC"
 semester_code: "301"
 semester_no: 5
 
-credits: 3
+credits: 4
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "COMMERCE.pdf – Assam University B.Com NEP-2020 Syllabus"
+status: "partial"
 
-keywords:
-  - "commerce"
-  - "dsc"
-  - "semester-5"
-
-notes: "Repair needed: The syllabus content is truncated/incomplete at the end of the file."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 

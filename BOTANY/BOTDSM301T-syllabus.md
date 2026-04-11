@@ -1,33 +1,30 @@
 ---
-entry_type: syllabus
+entry_type: "syllabus"
 entry_id: "HGC-FYUG-BOTDSM301T"
 college: "Haflong Government College"
 university: "Assam University"
 course: "FYUG"
 stream: "Science"
-group: "Botany Major"
+group: "Botany Minor"
 session: "2025-2026"
 year: 2026
 
 paper_code: "BOTDSM301T"
-paper_title: "[Pending Title]"
-subject_code: "BOT"
-paper_type: "DSM"
+paper_name: "Plant Biochemistry"
+subject: "BOT"
+type: "DSM"
 semester_code: "301"
 semester_no: 5
 
 credits: 3
 marks_total: 100
-source_reference: "MASTER.md"
-status: "draft"
+source_reference: "BOTANY.pdf"
+status: "partial"
 
-keywords:
-  - "botany"
-  - "dsm"
-  - "semester-5"
-
-notes: "Repair needed: Syllabus table is incomplete/truncated."
-version: 1
+aliases: []
+keywords: []
+notes: ""
+version: 2
 last_updated: "2026-04-11"
 ---
 
