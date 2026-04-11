@@ -1,0 +1,41 @@
+sl_no,semester,paper_code,source_course_no,paper_name,credits,paper_type,delivery
+1,1,BOTDSC101T,BOT:DSC-101,Microbiology,3,DSC,Theory
+2,1,BOTDSC102T,BOT:DSC-102,Phycology and Mycology,3,DSC,Theory
+3,1,BOTDSM101T,BOT:DSM-101,"Biodiversity (Microbes, Cryptogams & Gymnosperms)",3,DSM,Theory
+4,1,BOTIDC101T,BOT:IDC-101,Gardening and Nursery Management,3,IDC,Theory
+5,1,BOTSEC101P,BOT:SEC-101,Medicinal Plants & Herbal Technology,3,SEC,Theory+Practical
+6,2,BOTDSC151T,BOT:DSC-151,Cell Biology,3,DSC,Theory
+7,2,BOTDSC152P,BOT:DSC-152,Practical - I,3,DSC,Practical
+8,2,BOTDSM151T,BOT:DSM-151,Angiosperm Morphology and Taxonomy,3,DSM,Theory
+9,2,BOTIDC151T,BOT:IDC-151,Biodiversity Conservation,3,IDC,Theory
+10,2,BOTSEC151P,BOT:SEC-151,Mushroom cultivation,3,SEC,Theory+Practical
+11,3,BOTDSC201T,DSC-201,Archegoniate / Vascular Cryptogams,4,DSC,Theory
+12,3,BOTDSC202T,BOT:DSC-202,"Genetics, Molecular Biology and Plant Breeding",4,DSC,Theory
+13,3,BOTDSM201T,BOT:DSM-201,Plant Anatomy and Embryology,4,DSM,Theory
+14,3,BOTIDC201T,BOT:IDC-201,Plants and Traditional Knowledge,3,IDC,Theory
+15,3,BOTSEC201P,BOT:SSEC-201,Horticulture,3,SEC,Theory+Practical
+16,4,BOTDSC251T,BOT:DSC-251,Economic Botany,4,DSC,Theory
+17,4,BOTDSC252T,BOT:DSC-252,Plant Systematics,4,DSC,Theory
+18,4,BOTDSC253P,BOT:DSC-253,Practical - II,4,DSC,Practical
+19,4,BOTDSM251P,BOT:DSM-251,Practical,3,DSM,Practical
+20,4,BOTDSM252T,BOT:DSM-252,Plant Physiology,3,DSM,Theory
+21,5,BOTDSC301T,BOT:DSC-301,Advance Morphology and Taxonomy,4,DSC,Theory
+22,5,BOTDSC302T,BOT:DSC-302,Plant Physiology,4,DSC,Theory
+23,5,BOTDSC303P,BOT:DSC-303,Practical - III,4,DSC,Practical
+24,5,BOTDSM301T,BOT:DSM-301,Plant Biochemistry,3,DSM,Theory
+25,5,BOTDSM302T,BOT:DSM-302,Plant Ecology and Environmental Biology,3,DSM,Theory
+26,6,BOTDSC351T,BOT:DSC-351,Ecology and Phytogeography,4,DSC,Theory
+27,6,BOTDSC352T,BOT:DSC-352,Plant Metabolism and Biochemistry,4,DSC,Theory
+28,6,BOTDSC353T,BOT:DSC-353,Plant Biotechnology,4,DSC,Theory
+29,6,BOTDSC354P,BOT:DSC-354,Practical - IV,4,DSC,Practical
+30,6,BOTDSM351P,BOT:DSM-351,Practical,4,DSM,Practical
+31,7,BOTDSC401T,BOT:DSC-401,Reproductive Biology of Angiosperm,4,DSC,Theory
+32,7,BOTDSC402T,BOT:DSC-402,Plant Pathology,4,DSC,Theory
+33,7,BOTDSC403T,BOT:DSC-403,"Ethnobotany, Biostatistics and Bioinformatics",4,DSC,Theory
+34,7,BOTDSC404P,BOT:DSC-404,Practical - V,4,DSC,Practical
+35,7,BOTDSM401T,BOT:DSM-401,Cell & Molecular Biology,4,DSM,Theory
+36,8,BOTDSC451P,BOT:DSC-451,Practical with Research,4,DSC,Practical
+37,8,BOTDSC452T,BOT:DSC-452,Applied Botany,4,DSC,Theory
+38,8,BOTDSC453T,BOT:DSC-453,Biodiversity and Climate Change,4,DSC,Theory
+39,8,BOTDSC454T,BOT:DSC-454,Analytical Techniques in Plant Science,4,DSC,Theory
+40,8,BOTDSM451T,BOT:DSM-451,Applied Botany,4,DSM,Theory

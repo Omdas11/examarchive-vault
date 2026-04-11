@@ -1,0 +1,41 @@
+sl_no,semester,paper_code,source_course_no,paper_name,credits,paper_type,delivery
+1,1,CHMDSC101T,CHM-DSC-101,"Inorganic Chemistry-I (Atomic Structure, Chemical Bonding and Metallurgy)",3,DSC,Theory
+2,1,CHMDSC102T,CHM-DSC-102,Physical Chemistry-I (States of Matter and Solution),3,DSC,Theory
+3,1,CHMDSM101T,CHM-DSM-101,Fundamentals of Chemistry-I,3,DSM,Theory
+4,1,CHMSEC101T,CHM-SEC-101,Separation Techniques,3,SEC,Theory
+5,1,CHMIDC101T,CHM-IDC-101,Application of Chemistry in Everyday life,3,IDC,Theory
+6,2,CHMDSC151T,CHM-DSC-151,Organic Chemistry-I (Introductory Organic Chemistry),3,DSC,Theory
+7,2,CHMDSC152P,CHM-DSC-152,"Inorganic, Organic and Physical Chemistry Practical",3,DSC,Practical
+8,2,CHMDSM151T,CHM-DSM-151,Fundamentals of Chemistry-I,3,DSM,Theory
+9,2,CHMSEC151T,CHM-SEC-151,Basic Analytical Chemistry,3,SEC,Theory
+10,2,CHMIDC151T,CHM-IDC-151,Indian Chemistry Through the Ages,3,IDC,Theory
+11,3,CHMDSC201T,CHM-DSC-201,"Inorganic Chemistry-II (s-, p-block Elements, Coordination Chemistry and its Application)",4,DSC,Theory
+12,3,CHMDSC202T,CHM-DSC-202,Organic Chemistry-II (Functional Group Chemistry),4,DSC,Theory
+13,3,CHMDSM201T,CHM-DSM-201,Fundamentals in Chemistry-II,4,DSM,Theory
+14,3,CHMSEC201T,CHM-SEC-201,Forensic Chemistry,3,SEC,Theory
+15,3,CHMIDC201T,CHM-IDC-201,Heritage of Indian Metallurgy,3,IDC,Theory
+16,4,CHMDSC251T,CHM-DSC-251,Physical Chemistry-II,4,DSC,Theory
+17,4,CHMDSC252T,CHM-DSC-252,Inorganic & Analytical Chemistry-III,4,DSC,Theory
+18,4,CHMDSC253P,CHM-DSC-253,"Organic, Inorganic & Physical Chemistry Practical",4,DSC,Practical
+19,4,CHMDSM251P,CHM-DSM-251,"Organic, Inorganic & Physical Chemistry Practical",3,DSM,Practical
+20,4,CHMDSM252T,CHM-DSM-252,Fundamentals in Chemistry-II (DSM-201),3,DSM,Theory
+21,5,CHMDSC301T,CHM-DSC-301,Photochemistry and Quantum Chemistry,4,DSC,Theory
+22,5,CHMDSC302T,CHM-DSC-302,"Organic Chemistry-III (Heterocyclic, Biochemistry, Natural Products and Photochemistry)",4,DSC,Theory
+23,5,CHMDSC303P,CHM-DSC-303,"Organic, Inorganic & Physical Chemistry Practical",4,DSC,Practical
+24,5,CHMDSM301T,CHM-DSM-301,Fundamental of Chemistry-III,3,DSM,Theory
+25,5,CHMDSM302T,CHM-DSM-302,Fundamentals in Chemistry-III (DSM-301),3,DSM,Theory
+26,6,CHMDSC351T,CHM-DSC-351,Advance Material,4,DSC,Theory
+27,6,CHMDSC352T,CHM-DSC-352,Spectroscopy (Theory and application),4,DSC,Theory
+28,6,CHMDSC353T,CHM-DSC-353,Physical Chemistry-III,4,DSC,Theory
+29,6,CHMDSC354P,CHM-DSC-354,"Organic, Inorganic & Physical Chemistry Practical",4,DSC,Practical
+30,6,CHMDSM351P,CHM-DSM-351,"Organic, Inorganic & Physical Chemistry Practical (DSM-251)",4,DSM,Practical
+31,7,CHMDSC401T,CHM-DSC-401,Selected topics in Chemistry-I,4,DSC,Theory
+32,7,CHMDSC402T,CHM-DSC-402,"Selected topics in Chemistry-II (Reagents & reactions, Green chemistry)",4,DSC,Theory
+33,7,CHMDSC403P,CHM-DSC-403,"Organic, Inorganic & Physical Chemistry Practical",4,DSC,Practical
+34,7,CHMDSC404P,CHM-DSC-404,"Organic, Inorganic & Physical Chemistry Practical",4,DSC,Practical
+35,7,CHMDSM401P,CHM-DSM-401,Fundamentals in Chemistry-IV,4,DSM,Practical
+36,8,CHMDSC451T,CHM-DSC-451,Research Methodology (with research) / Selected topics in Chemistry-III,4,DSC,Theory
+37,8,CHMDSC452T,CHM-DSC-452,Applied Chemistry,4,DSC,Theory
+38,8,CHMDSC453T,CHM-DSC-453,Chemistry in everyday life,4,DSC,Theory
+39,8,CHMDSC454T,CHM-DSC-454,Instrumental Techniques,4,DSC,Theory
+40,8,CHMDSM451T,CHM-DSM-451,Fundamentals in Chemistry-IV (DSM-451),4,DSM,Theory

@@ -1,0 +1,41 @@
+sl_no,semester,paper_code,source_course_no,paper_name,credits,paper_type,delivery
+1,1,ZOODSC101T,ZOO:DSC-101,Diversity of Non-chordates,3,DSC,Theory
+2,1,ZOODSC102T,ZOO:DSC-102,Diversity of Chordates,3,DSC,Theory
+3,1,ZOODSM101T,ZOO:DSM-101,Animal Diversity,3,DSM,Theory
+4,1,ZOOIDC101T,ZOO:IDC-101,Understanding Life Processes,3,IDC,Theory
+5,1,ZOOSEC101P,ZOO:SEC-101,Apiculture,3,SEC,Theory+Practical
+6,2,ZOODSC151T,ZOO:DSC-151,Cell Biology,3,DSC,Theory
+7,2,ZOODSC152P,ZOO:DSC-152,Practical - I,3,DSC,Practical
+8,2,ZOODSM151T,ZOO:DSM-151,Cell Biology & Histology,3,DSM,Theory
+9,2,ZOOIDC151T,ZOO:IDC-151,Economic Zoology,3,IDC,Theory
+10,2,ZOOSEC151P,ZOO:SEC-151,Medical Diagnostics,3,SEC,Theory+Practical
+11,3,ZOODSC201T,ZOO:DSC-201,Principles of Genetics,4,DSC,Theory
+12,3,ZOODSC202T,ZOO:DSC-202,Principles of Ecology,4,DSC,Theory
+13,3,ZOODSM201T,ZOO:DSM-201,Physiology & Biochemistry,4,DSM,Theory
+14,3,ZOOIDC201T,ZOO:IDC-201,Public Health & Hygiene,3,IDC,Theory
+15,3,ZOOSEC201P,ZOO:SSEC-201,Sericulture,3,SEC,Theory+Practical
+16,4,ZOODSC251T,ZOO:DSC-251,Histology,4,DSC,Theory
+17,4,ZOODSC252T,ZOO:DSC-252,Fundamentals of Biochemistry,4,DSC,Theory
+18,4,ZOODSC253P,DSC-253,Practical - II,4,DSC,Practical
+19,4,ZOODSM251P,ZOO:DSM-251,Practical,3,DSM,Practical
+20,4,ZOODSM252T,ZOO:DSM-252,Genetics & Molecular Biology,3,DSM,Theory
+21,5,ZOODSC301T,ZOO:DSC-301,Animal Physiology,4,DSC,Theory
+22,5,ZOODSC302T,ZOO:DSC-302,Biochemistry of Metabolic Processes,4,DSC,Theory
+23,5,ZOODSC303P,ZOO:DSC-303,Practical - III,4,DSC,Practical
+24,5,ZOODSM301T,ZOO:DSM-301,Genetics & Molecular Biology,3,DSM,Theory
+25,5,ZOODSM302T,ZOO:DSM-302,Evolution & Adaptation,3,DSM,Theory
+26,6,ZOODSC351T,ZOO:DSC-351,Molecular Biology,4,DSC,Theory
+27,6,ZOODSC352T,ZOO:DSC-352,Evolutionary Biology,4,DSC,Theory
+28,6,ZOODSC353T,ZOO:DSC-353,Reproductive & Developmental Biology,4,DSC,Theory
+29,6,ZOODSC354P,ZOO:DSC-354,Practical - IV,4,DSC,Practical
+30,6,ZOODSM351P,ZOO:DSM-351,Practical,4,DSM,Practical
+31,7,ZOODSC401T,ZOO:DSC-401,Immunology & Bio-technology,4,DSC,Theory
+32,7,ZOODSC402T,ZOO:DSC-402,Toxicology & Environmental Monitoring,4,DSC,Theory
+33,7,ZOODSC403T,ZOO:DSC-403,Animal Behaviour & Chronobiology,4,DSC,Theory
+34,7,ZOODSC404P,ZOO:DSC-404,Practical - V,4,DSC,Practical
+35,7,ZOODSM401T,ZOO:DSM-401,Evolution & Adaptation,4,DSM,Theory
+36,8,ZOODSC451T,ZOO:DSC-451,Research Methodology / Bio-techniques & Biostatistics,4,DSC,Theory
+37,8,ZOODSC452T,ZOO:DSC-452,Fish & Fisheries,4,DSC,Theory
+38,8,ZOODSC453T,ZOO:DSC-453,Applied Zoology,4,DSC,Theory
+39,8,ZOODSC454T,ZOO:DSC-454,Comparative Anatomy & Sense Organs of Vertebrates,4,DSC,Theory
+40,8,ZOODSM451T,ZOO:DSM-451,Biological Techniques,4,DSM,Theory

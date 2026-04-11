@@ -1,0 +1,42 @@
+sl_no,semester,paper_code,paper_name,credits
+1,1,PHYDSC101T,Mathematical Physics - I,3
+2,1,PHYDSC102T,Mechanics and Relativity,3
+3,2,PHYDSC151T,Electricity and Magnetism,3
+4,2,PHYDSC152P,Lab.: (Part A: Mechanics + Part B: Electricity),3
+5,3,PHYDSC201T,Waves and Optics,4
+6,3,PHYDSC202T,Thermal Physics,4
+7,4,PHYDSC251T,Mathematical Physics - II,4
+8,4,PHYDSC252T,Electronics (Analog + Digital),4
+9,4,PHYDSC253P,Lab.: (Part A: Thermal Physics + Part B: Analog Electronics),4
+10,5,PHYDSC301T,Modern Physics,4
+11,5,PHYDSC302T,Introduction to classical mechanics and electromagnetic theory,4
+12,5,PHYDSC303P,Lab.: (Part A: Ray Optics + Part B: Physical Optics),4
+13,6,PHYDSC351T,Nuclear and Particle Physics,4
+14,6,PHYDSC352T,Statistical Mech. and Plasma Physics,4
+15,6,PHYDSC353T,Solid State Physics,4
+16,6,PHYDSC354P,Lab.: (Part A: Solid State Physics + Part B: Digital Electronics),4
+17,7,PHYDSC401T,Mathematical Physics - III,4
+18,7,PHYDSC402T,Classical Mechanics,4
+19,7,PHYDSC403T,Quantum Mechanics - I,4
+20,7,PHYDSC404P,Lab.: (Part A: Numerical Techniques & Programming including Quantum Mechanics + Part B: Simulation & Software based learning of electronics i.e. virtual Labs),4
+21,8,PHYDSC451T,Quantum Mechanics - II,4
+22,8,PHYDSC452T,Electromagnetic Theory,4
+23,8,PHYDSC453(A)T,Astronomy Astrophysics and Cosmology,4
+24,8,PHYDSC453(B)T,Nano Science and Material Science,4
+25,8,PHYDSC454T,Atomic and Molecular Physics,4
+26,1,PHYDSM101T,"Mechanics, Relativity and Math Physics",3
+27,2,PHYDSM151T,"Mechanics, Relativity and Math Physics",3
+28,3,PHYDSM201T,"Electricity, Magnetism and Electronics",4
+29,4,PHYDSM251P,Lab. (Mechanics + Optics) and (Electricity + Electronics),3
+30,4,PHYDSM252T,"Electricity, Magnetism and Electronics",3
+31,5,PHYDSM301T,"Waves and Oscillations, Optics and Thermal physics",3
+32,5,PHYDSM302T,"Waves and Oscillations, Optics and Thermal physics",3
+33,6,PHYDSM351P,Lab. (Mechanics + Optics) and (Electricity + Electronics),4
+34,7,PHYDSM401T,Modern Physics and Solid State Physics,4
+35,8,PHYDSM451T,Modern Physics and Solid State Physics,4
+36,1,PHYSEC-101,Workshop skill,3
+37,2,PHYSEC-151,Electrical circuits and safety,3
+38,3,PHYSEC-201,Renewable energy and energy harvesting,3
+39,1,PHYIDC101T,Physics in daily life,3
+40,2,PHYIDC151T,Understanding the Climate,3
+41,3,PHYIDC201T,Renewable energy and energy harvesting,3
