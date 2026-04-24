@@ -518,7 +518,7 @@ Use this table to track which files have been manually updated.
 | ZOOLOGY | ZOODSM151T | DRAFT | [Edit](./ZOOLOGY/ZOODSM151T-syllabus.md) |
 | ZOOLOGY | ZOODSM201T | DRAFT | [Edit](./ZOOLOGY/ZOODSM201T-syllabus.md) |
 | ZOOLOGY | ZOODSM251T | DRAFT | [Edit](./ZOOLOGY/ZOODSM251T-syllabus.md) |
-| ZOOLOGY | ZOODSM252T | DRAFT | [Edit](./ZOOLOGY/ZOODSM252T-syllabus.md) |
+| ZOOLOGY | ZOODSM252T | DONE | [Edit](./ZOOLOGY/ZOODSM252T-syllabus.md) |
 | ZOOLOGY | ZOODSM301T | DRAFT | [Edit](./ZOOLOGY/ZOODSM301T-syllabus.md) |
 | ZOOLOGY | ZOODSM302T | DRAFT | [Edit](./ZOOLOGY/ZOODSM302T-syllabus.md) |
 | ZOOLOGY | ZOODSM351T | DRAFT | [Edit](./ZOOLOGY/ZOODSM351T-syllabus.md) |
