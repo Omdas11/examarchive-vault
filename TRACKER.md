@@ -180,7 +180,7 @@ Use this table to track which files have been manually updated.
 | COMMERCE | COMDSC303T | DRAFT | [Edit](./COMMERCE/COMDSC303T-syllabus.md) |
 | COMMERCE | COMDSC351T | DRAFT | [Edit](./COMMERCE/COMDSC351T-syllabus.md) |
 | COMMERCE | COMDSC352T | DRAFT | [Edit](./COMMERCE/COMDSC352T-syllabus.md) |
-| COMMERCE | COMDSC353T | DRAFT | [Edit](./COMMERCE/COMDSC353T-syllabus.md) |
+| COMMERCE | COMDSC353T | ACTIVE | [Edit](./COMMERCE/COMDSC353T-syllabus.md) |
 | COMMERCE | COMDSC354T | DRAFT | [Edit](./COMMERCE/COMDSC354T-syllabus.md) |
 | COMMERCE | COMDSC401T | DRAFT | [Edit](./COMMERCE/COMDSC401T-syllabus.md) |
 | COMMERCE | COMDSC402T | DRAFT | [Edit](./COMMERCE/COMDSC402T-syllabus.md) |
