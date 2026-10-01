@@ -10,7 +10,7 @@ session: "2025-2026"
 year: 2026
 
 paper_code: "PHYDSC351T"
-paper_name: "Nuclear and Particle Physics"
+paper_name: "Nuclear And Particle Physics"
 subject: "PHY"
 type: "DSC"
 semester_code: "351"
@@ -18,20 +18,16 @@ semester_no: 6
 
 credits: 4
 marks_total: 100
-source_reference: "DRAFT/PHYDSC351T.md"
+source_reference: "AU FYUG Physics syllabus (NEP-2020, w.e.f. 2023-24), Department of Physics, Assam University, Silchar. http://www.aus.ac.in/physics-department/wp-content/uploads/sites/46/2023/08/Physics_Final_Syllabus_under_FYUGP_8_July_2023.pdf"
 status: "active"
 
 aliases:
   - "Nuclear Physics"
   - "Particle Physics"
-keywords:
-  - "Nuclear Models"
-  - "Radioactivity"
-  - "Particle Accelerators"
-  - "Quark Model"
-notes: "Verified and populated from DRAFT/PHYDSC351T.md."
+keywords: ["physics", "dsc", "semester-6"]
+notes: "Content verified against the official AU FYUG Physics syllabus (NEP-2020); previously populated from DRAFT/PHYDSC351T.md."
 version: 2
-last_updated: "2026-04-11"
+last_updated: "2026-10-01"
 ---
 
 ## Syllabus

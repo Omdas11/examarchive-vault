@@ -18,21 +18,16 @@ semester_no: 6
 
 credits: 4
 marks_total: 100
-source_reference: "DRAFT/PHYDSC353T.md"
+source_reference: "AU FYUG Physics syllabus (NEP-2020, w.e.f. 2023-24), Department of Physics, Assam University, Silchar. http://www.aus.ac.in/physics-department/wp-content/uploads/sites/46/2023/08/Physics_Final_Syllabus_under_FYUGP_8_July_2023.pdf"
 status: "active"
 
 aliases:
   - "Solid State Physics"
   - "Physics DSC 6"
-keywords:
-  - "physics"
-  - "dsc"
-  - "semester-6"
-  - "solid state"
-  - "superconductivity"
-notes: "Verified and populated from DRAFT/PHYDSC353T.md."
+keywords: ["physics", "dsc", "semester-6"]
+notes: "Content verified against the official AU FYUG Physics syllabus (NEP-2020); previously populated from DRAFT/PHYDSC353T.md."
 version: 2
-last_updated: "2026-04-11"
+last_updated: "2026-10-01"
 ---
 
 ## Syllabus
