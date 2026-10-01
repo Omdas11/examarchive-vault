@@ -10,30 +10,25 @@ session: "2025-2026"
 year: 2026
 
 paper_code: "CHMDSC451T"
-paper_name: "Research Methodology with Selected Topics in Chemistry-III"
+paper_name: "Research Methodology (with research) / Selected topics in Chemistry-III"
 subject: "CHM"
 type: "DSC"
 semester_code: "451"
-semester_no: 8
+semester_no: 4
 
 credits: 4
 marks_total: 100
-source_reference: "CHEMISTRY.pdf (Assam University FYUG Chemistry Syllabus, NEP 2020)"
-status: "partial"
+source_reference: "AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24) — curriculum table; unit detail not published in the syllabus PDF"
+status: "draft"
 
-aliases: []
-keywords: []
-notes: ""
+aliases: ["CHM-DSC-451"]
+keywords: ["chemistry", "dsc", "semester-4"]
+notes: "Paper title/credits from the official AU FYUG Chemistry curriculum table. Unit-wise syllabus not included in the published PDF (covers semesters 1-6 only); unit table left for a future update."
 version: 2
-last_updated: "2026-04-11"
+last_updated: "2026-10-01"
 ---
 
 ## Syllabus
 
 | unit_number | syllabus_content | lectures | tags |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |

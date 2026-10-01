@@ -10,30 +10,28 @@ session: "2025-2026"
 year: 2026
 
 paper_code: "CHMDSC354P"
-paper_name: "Practical: Organic, Inorganic and Physical Chemistry"
+paper_name: "Inorganic, Organic and Physical Chemistry"
 subject: "CHM"
 type: "DSC"
 semester_code: "354"
-semester_no: 6
+semester_no: 3
 
 credits: 4
 marks_total: 100
-source_reference: "CHEMISTRY.pdf (Assam University FYUG Chemistry Syllabus, NEP 2020)"
-status: "draft"
+source_reference: "AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24; approved 94th Academic Council, 20.07.2023)"
+status: "filled"
 
-aliases: []
-keywords: []
-notes: "Auto-generated draft from master syllabus row"
+aliases: ["CHM-DSC-354"]
+keywords: ["chemistry", "dsc", "semester-3"]
+notes: "Filled from the official AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24)."
 version: 2
-last_updated: "2026-04-11"
+last_updated: "2026-10-01"
 ---
 
 ## Syllabus
 
 | unit_number | syllabus_content | lectures | tags |
 |---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
+| A | Section A - Inorganic Chemistry. 1. Qualitative Inorganic Analysis 30 Marks i) Qualitative analysis of mixtures containing 3 anions and 3 cations. Mixtures should preferably contain one interfering anion or insoluble component or combination of anions. |  | lab,experiments |
+| B | Section B - Organic Chemistry. 2. Chromatographic separation 20 Marks i) Separation and identification of the monosaccharides present in the given mixture (glucose & fructose) by paper chromatography. Reporting the Rf values. ii) Separate a mixture of o-nitrophenol and p-nitrophenol by TLC technique and identify them on the basis of their Rf values. iii) Chromatographic separation of the active ingredients of plants, flowers and juices by TLC/ Paper chromatography. iv) Separation of 2,4-Dinitrophenyl hydrazones of any two carbonyl compounds (e.g., benzophenone and benzyl; p-nitrobenzaldehyde and benzaldehyde) from their mixture and determination of Rf values (By Paper/ Thin layer chromatography) v) Paper chromatographic separation and determination of Rf values of mixture of any three amino acids from their mixture (alanine, glycine and leucine or any other set). Spray reagent: Ninhydrin. |  | lab,experiments |
+| C | Section C - Physical Chemistry. 3. Any one experiment out of the following can set in examination 20 Marks i) Determine the rate constant of hydrolysis of methyl acetate in presence HCl. ii) To study saponification of ethyl acetate by sodium hydroxide iii) Conductometric titration of a mixture of strong and weak acid vs strong base. iv) Determination of equivalent conductances of a strong electrolyte at various dilutions and 10 verification of Onsagar equation. v) Potentiometric titration of ferrous ammonium sulphate against standard K2Cr2O7/KMnO4 and determination of redox potential of Fe(II)- Fe(III) system. Internal Assessment 4. Viva-voce 15 marks 5. Regularity in maintenance of Lab Note Book 5 marks 6. Attendance 10 marks |  | lab,experiments |
