@@ -111,8 +111,33 @@ question papers).
 
 - [x] Chemistry syllabus entries — done 2026-10-01 (Batch S3, 40 files)
 - [x] Mathematics sem 1–2 syllabus entries — done 2026-10-01 (Batch S4, 10 files)
-- [ ] Mathematics sem 3–8 syllabus entries (Batch S5 — transcription of the
-      scanned official PDF in progress)
+- [x] Mathematics sem 3–8 syllabus entries — done 2026-10-01 (Batch S5, 36 files)
 - [ ] Question entries for verified Chemistry/Mathematics FYUG papers
       (awaiting `~/workspace/examarchive/papers/manifest.json` from the
       extraction pipeline)
+
+## Batch S5 file list (Mathematics sem 3–8 — 36 files, committed 2026-10-01)
+
+All under `MATHEMATICS/`:
+MATDSC201T, MATDSC202T, MATDSC251T, MATDSC252T, MATDSC253T,
+MATDSC301T, MATDSC302T, MATDSC303T,
+MATDSC351T, MATDSC352T, MATDSC353T, MATDSC354T,
+MATDSC401AT, MATDSC401BT, MATDSC402AT, MATDSC402BT,
+MATDSC403AT, MATDSC403BT, MATDSC404AT, MATDSC404BT,
+MATDSC451AT, MATDSC452BT,
+MATDSC453AT, MATDSC453BT, MATDSC454AT, MATDSC454BT,
+MATDSM201T, MATDSM251T, MATDSM252T, MATDSM301T, MATDSM302T,
+MATDSM351T, MATDSM401T, MATDSM451T,
+MATSEC201T, MATIDC201T
+(each as `{CODE}-syllabus.md`).
+
+Source: official AU FYUG Mathematics syllabus (NEP-2020, w.e.f. 2023-24);
+sem 1–2 via text mirror, sem 3–8 via transcription of the scanned official PDF.
+Official hyphenated codes (`MAT-DSC-201` etc.) are in `aliases`.
+Sem 7–8 DSC papers are option papers (A/B); each option is its own file
+(`MATDSC401AT` = Option A Abstract Algebra-II, `MATDSC401BT` = Option B
+Probability and Statistics, etc.). The single-code stubs
+`MATDSC401T`–`MATDSC404T`, `MATDSC451T`–`MATDSC454T` remain untouched
+auto-generated drafts — do NOT ingest them (ingest the AT/BT option files).
+Do NOT ingest the `MATHEMATICS/MTM*-syllabus.md` files — wrong-prefix
+duplicates (official prefix is `MAT`).
