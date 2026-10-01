@@ -14,7 +14,7 @@ paper_name: "Inorganic, Organic and Physical Chemistry"
 subject: "CHM"
 type: "DSM"
 semester_code: "351"
-semester_no: 3
+semester_no: 6
 
 credits: 4
 marks_total: 100
@@ -22,7 +22,7 @@ source_reference: "AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24; approve
 status: "filled"
 
 aliases: ["CHM-DSM-351"]
-keywords: ["chemistry", "dsm", "semester-3"]
+keywords: ["chemistry", "dsm", "semester-6"]
 notes: "Filled from the official AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24)."
 version: 2
 last_updated: "2026-10-01"

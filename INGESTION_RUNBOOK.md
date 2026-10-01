@@ -64,10 +64,55 @@ PHYSEC101T, PHYSEC151T, PHYSEC201T, PHYIDC101T, PHYIDC151T, PHYIDC201T
   official forms.
 - **Question files**: to be added (see below).
 
+## Batch S3 file list (Chemistry — 40 files, committed 2026-10-01)
+
+All under `CHEMISTRY/`:
+CHMDSC101T, CHMDSC102T, CHMDSC151T, CHMDSC152P, CHMDSC201T, CHMDSC202T,
+CHMDSC251T, CHMDSC252T, CHMDSC253P, CHMDSC301T, CHMDSC302T, CHMDSC303P,
+CHMDSC351T, CHMDSC352T, CHMDSC353T, CHMDSC354P, CHMDSC401T, CHMDSC402T,
+CHMDSC403P, CHMDSC404P, CHMDSC451T, CHMDSC452T, CHMDSC453T, CHMDSC454T,
+CHMDSM101T, CHMDSM151T, CHMDSM201T, CHMDSM251P, CHMDSM252T, CHMDSM301T,
+CHMDSM302T, CHMDSM351P, CHMDSM401P, CHMDSM451T,
+CHMSEC101T, CHMSEC151T, CHMSEC201T,
+CHMIDC101T, CHMIDC151T, CHMIDC201T
+(each as `{CODE}-syllabus.md`).
+
+Source: official AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24;
+approved 94th Academic Council 20.07.2023; mirrored from Haflong Govt College).
+Official hyphenated codes (`CHM-DSC-101` etc.) are in `aliases`.
+The 30 semester 1–6 papers carry full unit-wise content; the 10 semester 7–8
+papers carry titles/credits from the official curriculum table only (the
+published PDF covers semesters 1–6) and are marked `status: draft`.
+Do NOT ingest these 9 phantom files (auto-generated T-variants of practical
+papers, not in the official syllabus):
+`CHEMISTRY/CHMDSC152T`, `CHEMISTRY/CHMDSC253T`, `CHEMISTRY/CHMDSC303T`,
+`CHEMISTRY/CHMDSC354T`, `CHEMISTRY/CHMDSC403T`, `CHEMISTRY/CHMDSC404T`,
+`CHEMISTRY/CHMDSM251T`, `CHEMISTRY/CHMDSM351T`, `CHEMISTRY/CHMDSM401T`
+(all `-syllabus.md`).
+
+## Batch S4 file list (Mathematics sem 1–2 — 10 files, committed 2026-10-01)
+
+All under `MATHEMATICS/`:
+MATDSC101T, MATDSC102T, MATDSC151T, MATDSC152T,
+MATDSM101T, MATDSM151T,
+MATSEC101T, MATSEC151T,
+MATIDC101T, MATIDC151T
+(each as `{CODE}-syllabus.md`).
+
+Source: official AU FYUG Mathematics syllabus (NEP-2020, w.e.f. 2023-24),
+via a text mirror of the official PDF (rgdc.ac.in). Official hyphenated codes
+(`MAT-DSC-101` etc.) are in `aliases`. S4 covers semesters 1–2 only; sem 3–8
+batches (S5) follow after transcription of the scanned official PDF.
+Do NOT ingest the `MATHEMATICS/MTM*-syllabus.md` files — wrong-prefix
+duplicates (official prefix is `MAT`, per the syllabus PDF and actual FYUG
+question papers).
+
 ## Pending
 
-- [ ] Chemistry syllabus entries (awaiting official AU FYUG Chemistry syllabus)
-- [ ] Mathematics syllabus entries (awaiting official AU FYUG Mathematics syllabus)
+- [x] Chemistry syllabus entries — done 2026-10-01 (Batch S3, 40 files)
+- [x] Mathematics sem 1–2 syllabus entries — done 2026-10-01 (Batch S4, 10 files)
+- [ ] Mathematics sem 3–8 syllabus entries (Batch S5 — transcription of the
+      scanned official PDF in progress)
 - [ ] Question entries for verified Chemistry/Mathematics FYUG papers
       (awaiting `~/workspace/examarchive/papers/manifest.json` from the
       extraction pipeline)

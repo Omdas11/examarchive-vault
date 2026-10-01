@@ -14,7 +14,7 @@ paper_name: "Fundamental of Chemistry-III"
 subject: "CHM"
 type: "DSM"
 semester_code: "302"
-semester_no: 3
+semester_no: 5
 
 credits: 3
 marks_total: 100
@@ -22,7 +22,7 @@ source_reference: "AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24; approve
 status: "filled"
 
 aliases: ["CHM-DSM-302"]
-keywords: ["chemistry", "dsm", "semester-3"]
+keywords: ["chemistry", "dsm", "semester-5"]
 notes: "Filled from the official AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24)."
 version: 2
 last_updated: "2026-10-01"

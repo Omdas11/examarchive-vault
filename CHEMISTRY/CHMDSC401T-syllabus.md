@@ -14,7 +14,7 @@ paper_name: "Selected topics in Chemistry-I"
 subject: "CHM"
 type: "DSC"
 semester_code: "401"
-semester_no: 4
+semester_no: 7
 
 credits: 4
 marks_total: 100
@@ -22,7 +22,7 @@ source_reference: "AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24) — cur
 status: "draft"
 
 aliases: ["CHM-DSC-401"]
-keywords: ["chemistry", "dsc", "semester-4"]
+keywords: ["chemistry", "dsc", "semester-7"]
 notes: "Paper title/credits from the official AU FYUG Chemistry curriculum table. Unit-wise syllabus not included in the published PDF (covers semesters 1-6 only); unit table left for a future update."
 version: 2
 last_updated: "2026-10-01"

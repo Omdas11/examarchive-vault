@@ -14,7 +14,7 @@ paper_name: "Inorganic, Organic and Physical Chemistry"
 subject: "CHM"
 type: "DSC"
 semester_code: "354"
-semester_no: 3
+semester_no: 6
 
 credits: 4
 marks_total: 100
@@ -22,7 +22,7 @@ source_reference: "AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24; approve
 status: "filled"
 
 aliases: ["CHM-DSC-354"]
-keywords: ["chemistry", "dsc", "semester-3"]
+keywords: ["chemistry", "dsc", "semester-6"]
 notes: "Filled from the official AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24)."
 version: 2
 last_updated: "2026-10-01"

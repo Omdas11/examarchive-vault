@@ -14,7 +14,7 @@ paper_name: "Organic Chemistry-III: Heterocyclic, Biochemistry, Natural products
 subject: "CHM"
 type: "DSC"
 semester_code: "302"
-semester_no: 3
+semester_no: 5
 
 credits: 4
 marks_total: 100
@@ -22,7 +22,7 @@ source_reference: "AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24; approve
 status: "filled"
 
 aliases: ["CHM-DSC-302"]
-keywords: ["chemistry", "dsc", "semester-3"]
+keywords: ["chemistry", "dsc", "semester-5"]
 notes: "Filled from the official AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24)."
 version: 2
 last_updated: "2026-10-01"

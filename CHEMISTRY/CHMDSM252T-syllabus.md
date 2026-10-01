@@ -14,7 +14,7 @@ paper_name: "Fundamentals of Chemistry-II"
 subject: "CHM"
 type: "DSM"
 semester_code: "252"
-semester_no: 2
+semester_no: 4
 
 credits: 3
 marks_total: 100
@@ -22,7 +22,7 @@ source_reference: "AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24; approve
 status: "filled"
 
 aliases: ["CHM-DSM-252"]
-keywords: ["chemistry", "dsm", "semester-2"]
+keywords: ["chemistry", "dsm", "semester-4"]
 notes: "Filled from the official AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24)."
 version: 2
 last_updated: "2026-10-01"

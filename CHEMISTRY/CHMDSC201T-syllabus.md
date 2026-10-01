@@ -14,7 +14,7 @@ paper_name: "Inorganic Chemistry-II: (s-, p-block Elements, Coordination Chemist
 subject: "CHM"
 type: "DSC"
 semester_code: "201"
-semester_no: 2
+semester_no: 3
 
 credits: 4
 marks_total: 100
@@ -22,7 +22,7 @@ source_reference: "AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24; approve
 status: "filled"
 
 aliases: ["CHM-DSC-201"]
-keywords: ["chemistry", "dsc", "semester-2"]
+keywords: ["chemistry", "dsc", "semester-3"]
 notes: "Filled from the official AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24)."
 version: 2
 last_updated: "2026-10-01"

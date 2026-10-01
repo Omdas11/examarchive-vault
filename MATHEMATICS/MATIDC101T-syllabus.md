@@ -32,8 +32,8 @@ last_updated: "2026-10-01"
 
 | unit_number | syllabus_content | lectures | tags |
 |---|---|---|---|
-| 1 | Place value, face value of digits in decimal number system. Natural numbers, integers, rational numbers. Divisibility of integers. Problems on LCM, GCD, fractions, ratio & proportion, percentage, profit and loss, simple and compound interest. |  | place,value,face,digits |
+| 1 | Place value, face value of digits in decimal number system. Natural numbers, integers, rational numbers. Divisibility of integers. Problems on LCM, GCD, fractions, ratio and proportion, percentage, profit and loss, simple and compound interest. |  | place,value,face,digits |
 | 2 | Unitary method, problems on time and work, speed and distance. Surds, Laws of exponents. Elementary set theory, union, intersection, difference, cartesian product of sets, subsets, number of elements of sets. |  | unitary,time,work,speed |
-| 3 | Simultaneous Linear equations in two variables and related problems. Quadratic equations and related problems. Arithmetic Progression, Geometric Progression. |  | simultaneous,linear,equations,variables |
-| 4 | Permutation and Combination, Binomial Theorem for positive integer indices. Introduction to Probability, simple problems. |  | permutation,combination,binomial,positive |
-| 5 | Matrices: order, transpose, sum, difference, scalar multiple, product, inverse. Symmetric and skewsymmetric matrices. Determinant of a square matrix, problems on evaluating determinants. Elementary row and column operations on matrices. Use of matrices and determinants to solve system of linear equations. |  | matrices,order,transpose,difference |
+| 3 | Simultaneous Linear equations in two variables and related problems. Quadratic equations and related problems. Arithmetic Progression, Geometric Progression. |  | simultaneous,linear,variables,quadratic |
+| 4 | Permutation and Combination, Binomial Theorem for positive integer indices. Introduction to Probability. simple problems. |  | permutation,combination,binomial,positive |
+| 5 | Matrices: order, transpose, sum, difference, scalar multiple, product, inverse. Symmetric and skew symmetric matrices. Determinant of a square matrix, problems on evaluating determinants. Elementary row and column operations on matrices. Use of matrices and determinants to solve system of linear equations. |  | matrices,order,transpose,difference |

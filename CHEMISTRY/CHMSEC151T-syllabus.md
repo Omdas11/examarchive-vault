@@ -14,7 +14,7 @@ paper_name: "Basic Analytical Chemistry"
 subject: "CHM"
 type: "SEC"
 semester_code: "151"
-semester_no: 1
+semester_no: 2
 
 credits: 3
 marks_total: 100
@@ -22,7 +22,7 @@ source_reference: "AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24; approve
 status: "filled"
 
 aliases: ["CHM-SEC-151"]
-keywords: ["chemistry", "sec", "semester-1"]
+keywords: ["chemistry", "sec", "semester-2"]
 notes: "Filled from the official AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24)."
 version: 2
 last_updated: "2026-10-01"

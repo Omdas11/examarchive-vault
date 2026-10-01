@@ -14,7 +14,7 @@ paper_name: "Inorganic, Organic and Physical Chemistry"
 subject: "CHM"
 type: "DSC"
 semester_code: "152"
-semester_no: 1
+semester_no: 2
 
 credits: 3
 marks_total: 100
@@ -22,7 +22,7 @@ source_reference: "AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24; approve
 status: "filled"
 
 aliases: ["CHM-DSC-152"]
-keywords: ["chemistry", "dsc", "semester-1"]
+keywords: ["chemistry", "dsc", "semester-2"]
 notes: "Filled from the official AU FYUG Chemistry syllabus (NEP-2020, w.e.f. 2023-24)."
 version: 2
 last_updated: "2026-10-01"
