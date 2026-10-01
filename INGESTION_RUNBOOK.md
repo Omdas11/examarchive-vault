@@ -113,15 +113,17 @@ question papers).
 - [x] Mathematics sem 1–2 syllabus entries — done 2026-10-01 (Batch S4, 10 files)
 - [x] Mathematics sem 3–8 syllabus entries — done 2026-10-01 (Batch S5, 36 files)
 - [x] Question entries for verified Chemistry/Mathematics FYUG papers
-      (first batch done 2026-10-01 — Batch Q1, 1 of 6 target papers; see below)
+      (all done 2026-10-01 — Batch Q1, 6 of 6 target papers; see below)
 
 ## Batch Q1 file list (Question entries from verified FYUG papers — direct text extraction, 2026-10-01)
 
 Pipeline change: extraction switched from OCR to direct text extraction
 (`pdftotext -layout`, poppler; pypdf cross-checked). This recovered one of
 the six target papers that OCR had garbled. The other five were assessed
-paper-by-paper and SKIPPED because faithful transcription is not possible
-from the text layer; details per paper below.
+paper-by-paper and were initially SKIPPED because faithful transcription
+is not possible from the font-corrupted text layer; they were then filled
+2026-10-01 by visual transcription of pages rendered at 150 DPI
+(`pdftoppm -png -r 150`), wording verbatim, no invented content.
 
 Committed as `QUESTION/CHEMISTRY/CHMDSM252T-questions-2025.md`
 (commit 18e860e): CHMDSM-252/142 "Fundamentals of Chemistry-II", FYUG Even
@@ -131,34 +133,47 @@ and were normalized to the intended formulas (e.g. "B,H6" -> B2H6,
 "Ca(0H)2" -> Ca(OH)2, "Sy2" -> SN2, "El" -> E1, "è" -> pi). Wording is
 otherwise verbatim. Linked to syllabus entry `HGC-FYUG-CHMDSM252T`.
 
-Skipped (text layer present but NOT clean/faithful — do not force entries):
-- CHMDSM-151/137 "Fundamentals of Chemistry-I", FYUG Even 2025 — sub/
-  superscripts systematically corrupted beyond unambiguous recovery:
-  Q3(b) lists two species that render identically ("H, or H", cannot tell
-  which two hydrogen species); Q10(a)(i) carbocation structures and
-  Q10(a)(ii) aromatic/anti-aromatic species are image structures with no
-  text layer (only "1x3=3" marks extract); Q10(b)(i) species list garbled.
-- CHMDSC-252/141 "Organometallic and Analytical Chemistry", FYUG Even
-  2025 — several questions reference structure diagrams with no text:
-  Q1(a) hapticity compounds, Q2(a)(i) EAN-rule complexes, Q3(a) ferrocene
-  reaction schemes (Cp rings are images, extraction shows only "Fe").
-- MATDSC-152T/127 "Integral Calculus and Vectors", FYUG Even 2024 —
-  integral symbols render as "L"/"R/3"/"J", theta as "®"/"0"/"8",
-  subscripts dropped; several questions have missing expressions
-  (e.g. Q1 "Express f() dx as the limit of sum").
-- MATDSM-101T/142 "Calculus", FYUG Odd 2023 (held 2024) — multiple
-  questions have blank/missing math expressions in the text layer
-  (Q16(a), Q19(b), Q22(b), Q2 function missing), so faithful transcription
-  is impossible.
-- MATDSC-101T/140 "Higher Algebra and Trigonometry", FYUG Odd 2023
-  (held 2024) — theta/pi/alpha-beta-gamma/exponents corrupted
-  ("cos®", "n /2", "i' =el4n+1) x/2", "x°+x-16x +20=0"); formulas cannot
-  be faithfully reconstructed from the text layer.
+Filled by visual transcription (commit 379077d):
 
-Recommendation for the skipped five: re-extract by rendering PDF pages
-to images and transcribing visually (as was done for the 2022 physics
-PYQ), or obtain cleaner source PDFs; do not guess formulas from the
-corrupted text layer.
+- `QUESTION/CHEMISTRY/CHMDSM151T-questions-2025.md`: CHMDSM-151/137
+  "Fundamentals of Chemistry-I", FYUG Even 2025 (2nd sem, 70 marks).
+  All 10 questions / 43 subparts transcribed. Visual resolution of the
+  text-layer ambiguities flagged earlier: Q3(b) reads "H2 or H2+" (the
+  superscript-circle-plus glyph); Q10(a)(i) carbocation structures read
+  as (CH3)2CH+, CH3CH2+, (CH3)3C+, CH3+; Q10(a)(ii) species are
+  cyclopropenyl cation / cyclobutadiene / cyclopentadienyl cation;
+  Q9(c) acid series reads H3C-CH2COOH, 2-nitro (NO2 below the middle CH)
+  and 3-nitro (NO2 below the terminal CH2) propanoic acids. Diagrams
+  described in bracketed text. Linked to `HGC-FYUG-CHMDSM151T`.
+- `QUESTION/CHEMISTRY/CHMDSC252T-questions-2025.md`: CHMDSC-252/141
+  "Organometallic and Analytical Chemistry", FYUG Even 2025 (4th sem,
+  70 marks). All 15 questions / 38 subparts transcribed. Structure
+  diagrams described in brackets: Q1(a) hapticity compounds (eta-bonded
+  butadiene fragment; Cp half-sandwich), Q2(a)(i) cobaltocene and
+  Wilkinson's catalyst structures, Q3(a) five ferrocene reaction schemes
+  (Cp rings drawn with circles). Linked to `HGC-FYUG-CHMDSC252T`.
+- `QUESTION/MATHEMATICS/MATDSC152T-questions-2024.md`: MATDSC-152T/127
+  "Integral Calculus and Vectors", FYUG Even 2024 (2nd sem, 70 marks).
+  All 25 questions / 41 subparts transcribed, plain-text math notation.
+  Two source-print anomalies kept faithful: Q8 and Q25(b) read
+  "revolves around the axis" with the axis name missing in the print;
+  Q17(b) prints the value "= pi/2" as part of the question itself.
+  Source PDF sheets 2-4 are two-up scans (printed pages 1-7). Linked to
+  `HGC-FYUG-MATDSC152T`.
+- `QUESTION/MATHEMATICS/MATDSM101T-questions-2023.md`: MATDSM-101T/142
+  "Calculus", FYUG Odd 2023 (held 2024), 1st sem, 70 marks. All 25
+  questions / 30 subparts transcribed. Same "revolves around the axis"
+  print gap at Q25(b); Q7's "Is the function ... is homogeneous?" kept
+  verbatim; pen check-marks on Q7/8/9/17/20/21 are student annotations,
+  not transcribed. Two-up scans (printed pages 1-7). Linked to
+  `HGC-FYUG-MATDSM101T`.
+- `QUESTION/MATHEMATICS/MATDSC101T-questions-2023.md`: MATDSC-101T/140
+  "Higher Algebra and Trigonometry", FYUG Odd 2023 (held 2024), 1st sem,
+  70 marks. All 25 questions / 41 subparts transcribed. Old-style
+  factorial corner-bracket notation (⌊n) in Q17(b) and Q19(b) kept as
+  printed with an explanatory note; Q16(b)(i) reads 2^{n/2} cos(n pi/4).
+  Pen check-marks are student annotations, not transcribed. Two-up
+  scans (printed pages 1-8). Linked to `HGC-FYUG-MATDSC101T`.
 
 ## Batch S5 file list (Mathematics sem 3–8 — 36 files, committed 2026-10-01)
 
